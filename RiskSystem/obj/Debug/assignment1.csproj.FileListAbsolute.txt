@@ -1,0 +1,7 @@
+C:\Users\hemanth.p\source\repos\example\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\hemanth.p\source\repos\example\assignment1\bin\Debug\assignment1.exe
+C:\Users\hemanth.p\source\repos\example\assignment1\bin\Debug\assignment1.pdb
+C:\Users\hemanth.p\source\repos\example\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+C:\Users\hemanth.p\source\repos\example\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\assignment1\obj\Debug\assignment1.exe
+C:\Users\hemanth.p\source\repos\example\assignment1\obj\Debug\assignment1.pdb
