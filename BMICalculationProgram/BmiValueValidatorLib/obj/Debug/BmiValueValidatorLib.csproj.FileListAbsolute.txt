@@ -1,0 +1,5 @@
+C:\Users\hemanth.p\source\repos\example\BmiValueValidatorLib\bin\Debug\BmiValueValidatorLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiValueValidatorLib\bin\Debug\BmiValueValidatorLib.pdb
+C:\Users\hemanth.p\source\repos\example\BmiValueValidatorLib\obj\Debug\BmiValueValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\BmiValueValidatorLib\obj\Debug\BmiValueValidatorLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiValueValidatorLib\obj\Debug\BmiValueValidatorLib.pdb

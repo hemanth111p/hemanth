@@ -1,0 +1,15 @@
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiCalculationApllication.exe.config
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiCalculationApllication.exe
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiCalculationApllication.pdb
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\obj\Debug\BmiCalculationApllication.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\obj\Debug\BmiCalculationApllication.exe
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\obj\Debug\BmiCalculationApllication.pdb
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\obj\Debug\BmiCalculationApllication.csprojResolveAssemblyReference.cache
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\UserInputReadFromConsoleLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\UserInputReadFromConsoleLib.pdb
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiValueCalculationLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiValueValidatorLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\ConsoleMessageDisplayLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiValueCalculationLib.pdb
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\BmiValueValidatorLib.pdb
+C:\Users\hemanth.p\source\repos\example\BmiCalculationApllication\bin\Debug\ConsoleMessageDisplayLib.pdb

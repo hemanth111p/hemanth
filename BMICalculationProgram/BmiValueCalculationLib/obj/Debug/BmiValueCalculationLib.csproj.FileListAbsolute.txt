@@ -1,0 +1,5 @@
+C:\Users\hemanth.p\source\repos\example\BmiValueCalculationLib\bin\Debug\BmiValueCalculationLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiValueCalculationLib\bin\Debug\BmiValueCalculationLib.pdb
+C:\Users\hemanth.p\source\repos\example\BmiValueCalculationLib\obj\Debug\BmiValueCalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\BmiValueCalculationLib\obj\Debug\BmiValueCalculationLib.dll
+C:\Users\hemanth.p\source\repos\example\BmiValueCalculationLib\obj\Debug\BmiValueCalculationLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\hemanth.p\source\repos\example\ConsoleMessageDisplayLib\bin\Debug\ConsoleMessageDisplayLib.dll
+C:\Users\hemanth.p\source\repos\example\ConsoleMessageDisplayLib\bin\Debug\ConsoleMessageDisplayLib.pdb
+C:\Users\hemanth.p\source\repos\example\ConsoleMessageDisplayLib\obj\Debug\ConsoleMessageDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\ConsoleMessageDisplayLib\obj\Debug\ConsoleMessageDisplayLib.dll
+C:\Users\hemanth.p\source\repos\example\ConsoleMessageDisplayLib\obj\Debug\ConsoleMessageDisplayLib.pdb
